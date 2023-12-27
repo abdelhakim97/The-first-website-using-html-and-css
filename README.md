@@ -1,2 +1,2 @@
-# the first website useing html and css
-the first website useing html and css
+# The first website using html and css
+The first website using html and css
